@@ -1,4 +1,4 @@
-#  NeurIPS 2023 submission # 11796: QCS-SGM+: Improved Quantized Compressed Sensing with Score-Based Generative Models
+# QCS-SGM+: Improved Quantized Compressed Sensing with Score-Based Generative Models
 
 
 ![samples](assets/mnist.png)
