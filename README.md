@@ -1,7 +1,11 @@
 # QCS-SGM+: Improved Quantized Compressed Sensing with Score-Based Generative Models
 
 -----------------------------------------------------------------------------------------
-![samples](assets/mnist.png) ![samples](assets/celeba.png)
+<div align="center">
+  <img src="assets/mnist.png" alt="MNIST" width="400"/>
+  <img src="assets/celeba.png" alt="CelebA" width="400"/>
+</div>
+
 
 A comparison of QCS-SGM+ (ours) with QCS-SGM and other algorithms on MNIST and CelebA datasets in the case of 1-bit CS for ill-conditioned sensing matrix A. 
 
