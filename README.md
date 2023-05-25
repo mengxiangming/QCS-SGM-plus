@@ -111,7 +111,7 @@ It assumes the `--exp`   argument is set to `exp`
 
 ## References
 
-This repo is built on top of the open-sourced ncsnv2 code: https://github.com/ermongroup/ncsnv2
+This repo is built on top of the open-sourced QCS-SGM code https://github.com/mengxiangming/QCS-SGM and ncsnv2 code: https://github.com/ermongroup/ncsnv2
 
 ```shell
 
