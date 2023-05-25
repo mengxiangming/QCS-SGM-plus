@@ -104,3 +104,31 @@ Link: https://drive.google.com/drive/folders/1217uhIvLg9ZrYNKOR3XTRFSurt4miQrd?u
 
 It assumes the `--exp`   argument is set to `exp`
 
+
+## References
+
+This repo is built on top of the open-sourced ncsnv2 code: https://github.com/ermongroup/ncsnv2
+
+```shell
+
+@article{meng2022quantized,
+  title={Quantized Compressed Sensing with Score-Based Generative Models},
+  author={Meng, Xiangming and Kabashima, Yoshiyuki},
+  journal={arXiv preprint arXiv:2211.13006},
+  year={2022}
+}
+
+@inproceedings{song2020improved,
+  author    = {Yang Song and Stefano Ermon},
+  editor    = {Hugo Larochelle and
+               Marc'Aurelio Ranzato and
+               Raia Hadsell and
+               Maria{-}Florina Balcan and
+               Hsuan{-}Tien Lin},
+  title     = {Improved Techniques for Training Score-Based Generative Models},
+  booktitle = {Advances in Neural Information Processing Systems 33: Annual Conference
+               on Neural Information Processing Systems 2020, NeurIPS 2020, December
+               6-12, 2020, virtual},
+  year      = {2020}
+}
+```
