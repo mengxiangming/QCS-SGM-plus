@@ -2,13 +2,14 @@
 
 This repo shows code of an advanced variant of QCS-SGM, namely QCS-SGM+. 
 
-[QCS-SGM+: Improved Quantized Compressed Sensing with Score-Based Generative Models](https://arxiv.org/abs/2302.00919v2)
-
 -----------------------------------------------------------------------------------------
 <div align="center">
   <img src="assets/mnist.png" alt="MNIST" width="400"/>
   <img src="assets/celeba.png" alt="CelebA" width="400"/>
 </div>
+
+A comparison of QCS-SGM+ with QCS-SGM and other algorithms on MNIST and CelebA datasets in the case of 1-bit CS for ill-conditioned sensing matrix A. 
+
 -----------------------------------------------------------------------------------------
 
 ## Running Experiments
