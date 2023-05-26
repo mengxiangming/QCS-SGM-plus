@@ -1,6 +1,6 @@
 # QCS-SGM+: Improved Quantized Compressed Sensing with Score-Based Generative Models
 
-This repo shows code of an advanced variant of QCS-SGM, namely QCS-SGM+. 
+This repo shows code of an advanced variant of [QCS-SGM](https://arxiv.org/abs/2211.13006), namely QCS-SGM+. 
 
 [QCS-SGM+: Improved Quantized Compressed Sensing with Score-Based Generative Models](https://arxiv.org/abs/2302.00919v2)
 
